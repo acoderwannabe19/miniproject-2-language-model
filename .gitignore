@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 final_model.pt
 slides/
+=======
+>>>>>>> 18eacce8d85e4d07083661315f8b6b1ad5fdaf41
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
