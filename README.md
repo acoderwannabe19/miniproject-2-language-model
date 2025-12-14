@@ -1,4 +1,4 @@
-# MiniProject 2: Language Model
+# MiniProject 2: Language Model (Ndeye Awa Salane)
 
 This project implements a simple character-level GPT language model trained on Shakespeare text.
 
